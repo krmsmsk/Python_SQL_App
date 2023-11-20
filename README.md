@@ -56,6 +56,22 @@
 
 ###
 
+<p align="center">Updated Version...</p>
+
+###
+
+<div align="center">
+  <img height="500" src="https://github.com/krmsmsk/Resimler/blob/main/Rapor%20Uygulamas%C4%B1/ANA%20%C3%87IKTI.png?raw=true"  />
+</div>
+
+###
+
+<p align="center">Old Version...</p>
+
+###
+
+###
+
 <div align="center">
   <img height="500" src="https://github.com/krmsmsk/Resimler/blob/main/Rapor%20Uygulamas%C4%B1/%C3%B6rneklem.png?raw=true"  />
 </div>
@@ -114,4 +130,5 @@
 
 <p align="center">It is purely coincidental that only 10 rows have arrived. It normally returns all matching data.</p>
 
-###
+
+
